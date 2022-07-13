@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and predictives models. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 If you want to reach me you can follow me on Instagram (@liviapcoutinho)
+- 📫 If you want to reach me you can follow me on Instagram (@liviacoutinho_)
 
 <!---
 Livia-Coutinho/Livia-Coutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
